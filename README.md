@@ -1,6 +1,6 @@
 ### Daniel Berigoi
-- Co-founder and CTO at [Wingravity](https://www.wingravity.com) - Action-oriented and results-driven agile software company.
-- Co-founder and CTO at [Slashscore Developers](https://www.slashscore.com) - Build & scale personal brands of software engineers who inspire & make an impact
+- Co-founder and CTO at [Wingravity](https://www.wingravity.com) - Action-oriented and results-driven agile software company
+- Co-founder and CTO at [Slashscore Developers](https://www.slashscore.com) - Build & scale personal brands of software engineers
 - Co-founder and CTO at [Slashscore AI](https://www.slashscore.ai) - Resume 2.0 for Developers
 - Currently working on building SmartDecision [SmartDecision](https://www.smartdecision.io) - AI-powered BRMS/BRE
 
