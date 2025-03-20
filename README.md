@@ -4,7 +4,7 @@
 - Co-founder [Slashscore Developers](https://www.slashscore.com) - Build & scale personal brands of software engineers
 - Co-founder [Slashscore AI](https://www.slashscore.ai) - Resume 2.0 for Developers
 ---
-Building [SmartDecision](https://www.smartdecision.io) - AI-powered BRMS/BRE
+I'm building [SmartDecision](https://www.smartdecision.io)
 
-Writing [blog posts](https://www.wingravity.com/blog/author/daniel)
+I'm writing [blog posts](https://www.wingravity.com/blog/author/daniel)
 
