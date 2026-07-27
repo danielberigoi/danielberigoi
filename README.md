@@ -10,3 +10,5 @@ Co-founder & CTO at [Wingravity](https://www.wingravity.com) - a fast-moving, ou
 - **[ShowSlide](https://showslide.com)** - Collaborative markdown-based presentations with real-time sync.
 
 📝 I occasionally write on [Wingravity's blog](https://www.wingravity.com/blog/author/daniel).
+
+[![slashscore](https://slashscore.com/badge/danielberigoi.svg)](https://slashscore.com/danielberigoi)
