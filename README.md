@@ -4,10 +4,9 @@ Co-founder & CTO at [Wingravity](https://www.wingravity.com) - a fast-moving, ou
 
 #### What I'm building
 
-- **[Slashscore Developers](https://www.slashscore.com)** - Helping engineers grow their personal brand.
-- **[Slashscore AI](https://www.slashscore.ai)** - Resume 2.0 for modern developers.
-- **[SmartDecision](https://www.smartdecision.io)** - Turn business policies into decision engines.
 - **[ShowSlide](https://showslide.com)** - Collaborative markdown-based presentations with real-time sync.
+- **[SmartDecision](https://www.smartdecision.io)** - Turn business policies into decision engines.
+- **[Slashscore](https://www.slashscore.com)** - The developer graph: engineers scored 0-100 from their public work, explorable as a graph.
 
 📝 I occasionally write on [Wingravity's blog](https://www.wingravity.com/blog/author/daniel).
 
